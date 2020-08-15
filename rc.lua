@@ -82,5 +82,3 @@ _G.client.connect_signal(
     c.border_color = beautiful.border_normal
   end
 )
-
-awful.spawn.with_shell("compton --config ~/.config/awesome/configuration/compton.conf")
