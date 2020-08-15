@@ -35,6 +35,8 @@ return {
      'flameshot',
      'synology-drive -minimized',
      'steam -silent',
+     'discord',
+     'nextcloud',
      '/usr/bin/barrier',
     --'~/.local/bin/wallpaper', -- wallpaper-reddit script
     -- Add applications that need to be killed between reloads
